@@ -41,7 +41,7 @@ No any challenges encountered while building the app.
 
 ![](https://i.imgur.com/VDHLbyR.gif)
 ![ezgif com-gif-maker-5](https://user-images.githubusercontent.com/67300899/155829853-7c041aea-7abb-46b7-92df-90e655ab2677.gif)
-
+![ezgif com-gif-maker-10](https://user-images.githubusercontent.com/67300899/156874942-eb1dfe1d-27f4-4cb1-a6ce-263d4cfd2327.gif)
 
 
 ### Notes
